@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @efulgencio
-- 👀 I’m interested in Swift, SwiftUI, Combine, ARkit, RealityKit
-- 🌱 I’m currently learning ARkit
-- 💞️ I’m looking to collaborate on Apps iOs
+- 👋 Hi, I’m @efulgencio.
+- 👀 I’m interested in Swift, SwiftUI, Combine, MVVM, Firebase, AWS.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on Apps iOs.
 - 📫 How to reach me eduardofulgenciocomendeiro@gmail.com
 
 <!---
